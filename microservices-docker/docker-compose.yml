@@ -1,0 +1,44 @@
+version: '3.9'
+
+services:
+  student-service:
+    build: ./student
+    container_name: student-service
+    ports:
+      - "5001:5100"
+
+  contact-service:
+    build: ./contact
+    container_name: contact-service
+    ports:
+      - "5002:5100"
+
+  academic-service:
+    build: ./academic
+    container_name: academic-service
+    ports:
+      - "5003:5100"
+
+  exam-service:
+    build: ./exam
+    container_name: exam-service
+    ports:
+      - "5004:5100"
+
+  library-service:
+    build: ./library
+    container_name: library-service
+    ports:
+      - "5005:5100"
+
+  ui:
+    build: ./ui
+    container_name: ui
+    ports:
+      - "5006:5100"
+    depends_on:
+      - student-service
+      - contact-service
+      - academic-service
+      - exam-service
+      - library-service

@@ -1,0 +1,12 @@
+[
+  {"id": 1, "studentId": "S001", "course": "Mathematics", "grade": "A", "semester": "Fall 2024"},
+  {"id": 2, "studentId": "S002", "course": "Physics", "grade": "B+", "semester": "Fall 2024"},
+  {"id": 3, "studentId": "S003", "course": "Chemistry", "grade": "A-", "semester": "Fall 2024"},
+  {"id": 4, "studentId": "S001", "course": "English", "grade": "B", "semester": "Fall 2024"},
+  {"id": 5, "studentId": "S004", "course": "Biology", "grade": "C+", "semester": "Fall 2024"},
+  {"id": 6, "studentId": "S005", "course": "History", "grade": "A", "semester": "Fall 2024"},
+  {"id": 7, "studentId": "S006", "course": "Geography", "grade": "B-", "semester": "Fall 2024"},
+  {"id": 8, "studentId": "S007", "course": "Computer Science", "grade": "A+", "semester": "Fall 2024"},
+  {"id": 9, "studentId": "S008", "course": "Economics", "grade": "B", "semester": "Fall 2024"},
+  {"id": 10, "studentId": "S009", "course": "Philosophy", "grade": "A-", "semester": "Fall 2024"}
+]

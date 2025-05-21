@@ -1,0 +1,12 @@
+[
+  {"id": 1, "bookTitle": "Introduction to Mathematics", "author": "John Doe", "available": true, "studentId": "S001"},
+  {"id": 2, "bookTitle": "Physics Fundamentals", "author": "Jane Smith", "available": false, "studentId": "S002"},
+  {"id": 3, "bookTitle": "Organic Chemistry", "author": "Albert Einstein", "available": true, "studentId": null},
+  {"id": 4, "bookTitle": "Biology 101", "author": "Charles Darwin", "available": true, "studentId": "S004"},
+  {"id": 5, "bookTitle": "World History", "author": "Mary Johnson", "available": false, "studentId": "S005"},
+  {"id": 6, "bookTitle": "Geography Basics", "author": "Lewis Carroll", "available": true, "studentId": null},
+  {"id": 7, "bookTitle": "Computer Science Intro", "author": "Alan Turing", "available": false, "studentId": "S007"},
+  {"id": 8, "bookTitle": "Economics Principles", "author": "Adam Smith", "available": true, "studentId": null},
+  {"id": 9, "bookTitle": "Philosophy Classics", "author": "Plato", "available": false, "studentId": "S009"},
+  {"id": 10, "bookTitle": "Advanced Mathematics", "author": "Isaac Newton", "available": true, "studentId": null}
+]

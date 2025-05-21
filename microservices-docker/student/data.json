@@ -1,0 +1,12 @@
+[
+  {"id": "S001", "name": "Alice Johnson", "age": 20, "gender": "Female", "major": "Mathematics"},
+  {"id": "S002", "name": "Bob Smith", "age": 22, "gender": "Male", "major": "Physics"},
+  {"id": "S003", "name": "Carol White", "age": 21, "gender": "Female", "major": "Chemistry"},
+  {"id": "S004", "name": "Dave Brown", "age": 23, "gender": "Male", "major": "Biology"},
+  {"id": "S005", "name": "Eve Davis", "age": 20, "gender": "Female", "major": "History"},
+  {"id": "S006", "name": "Frank Wilson", "age": 22, "gender": "Male", "major": "Geography"},
+  {"id": "S007", "name": "Grace Lee", "age": 21, "gender": "Female", "major": "Computer Science"},
+  {"id": "S008", "name": "Heidi Martin", "age": 23, "gender": "Female", "major": "Economics"},
+  {"id": "S009", "name": "Ivan Clark", "age": 22, "gender": "Male", "major": "Philosophy"},
+  {"id": "S010", "name": "Judy Lewis", "age": 20, "gender": "Female", "major": "Mathematics"}
+]

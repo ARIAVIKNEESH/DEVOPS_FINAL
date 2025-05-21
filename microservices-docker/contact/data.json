@@ -1,0 +1,12 @@
+[
+  {"id": 1, "studentId": "S001", "email": "alice@example.com", "phone": "123-456-7890", "address": "123 Maple St"},
+  {"id": 2, "studentId": "S002", "email": "bob@example.com", "phone": "234-567-8901", "address": "456 Oak Ave"},
+  {"id": 3, "studentId": "S003", "email": "carol@example.com", "phone": "345-678-9012", "address": "789 Pine Rd"},
+  {"id": 4, "studentId": "S004", "email": "dave@example.com", "phone": "456-789-0123", "address": "321 Elm St"},
+  {"id": 5, "studentId": "S005", "email": "eve@example.com", "phone": "567-890-1234", "address": "654 Birch Ln"},
+  {"id": 6, "studentId": "S006", "email": "frank@example.com", "phone": "678-901-2345", "address": "987 Cedar Blvd"},
+  {"id": 7, "studentId": "S007", "email": "grace@example.com", "phone": "789-012-3456", "address": "135 Spruce Dr"},
+  {"id": 8, "studentId": "S008", "email": "heidi@example.com", "phone": "890-123-4567", "address": "246 Walnut St"},
+  {"id": 9, "studentId": "S009", "email": "ivan@example.com", "phone": "901-234-5678", "address": "357 Chestnut Ct"},
+  {"id": 10, "studentId": "S010", "email": "judy@example.com", "phone": "012-345-6789", "address": "468 Fir Way"}
+]
